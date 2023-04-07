@@ -24,4 +24,4 @@ Pipelines are created for each model.
 UpGini was used for external data.
 
 
-Have add PDF sample report in Serbian Language.
+Have added PDF sample report in Serbian Language.
