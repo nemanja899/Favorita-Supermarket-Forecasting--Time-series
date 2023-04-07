@@ -19,5 +19,6 @@ Array with 1782 DataFrames is created and splited 5 or 3 times depending on a mo
 
 
 EDA was used for time series analysis and for feature engineering. Same data was used for trainig FbProphet models.
-Multiple Custom Models are developed with trair analysis.
+Multiple Custom Models are developed with treir analysis.
 Pipelines are created for each model.
+UpGini was used for external data.
