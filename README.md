@@ -2,7 +2,7 @@
 Kaggle competition in Advanced Time Series Forecasting best model 70th place at the time.
 
 
-##FbProphet model.
+## FbProphet model.
 
 
 Models were running in parallel.
