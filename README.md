@@ -22,3 +22,6 @@ EDA was used for time series analysis and for feature engineering. Same data was
 Multiple Custom Models are developed with treir analysis.
 Pipelines are created for each model.
 UpGini was used for external data.
+
+
+Have add PDF sample report in Serbian Language.
