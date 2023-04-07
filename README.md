@@ -1,5 +1,5 @@
-# Favorita-Supermarket-Forecasting--Time-series
-Kaggle competition in Advanced Time Series Forecasting best model 70th place at the time.
+# Favorita Supermarket Forecasting  Advanced Time series Analysis
+Kaggle competition in Advanced Time Series Forecasting best model 70th!! place at the time.
 
 
 ## FbProphet model.
