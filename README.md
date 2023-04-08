@@ -14,6 +14,7 @@ All models are trained in Google Colab using paid packages for resources.
 FbProhet models are set to be trained in parallel , Colab had 54 CPU cores. 
 Array with 1782 DataFrames is created and splited 5 or 3 times depending on a model. Had to delete trained models because of large memory consumption.
 
+### Note: FbProphet Notebook is large about 100MB, have to figure out how to upload it to repo.
 
 ## Custom Models and EDA
 
